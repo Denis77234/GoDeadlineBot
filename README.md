@@ -1,4 +1,4 @@
-# GoKatunBot
+# GoDeadlineBot
 tgbot deadline tracker 
 
 Список команды:
